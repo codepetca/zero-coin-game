@@ -1,5 +1,7 @@
 # Collect the coins
 
+[![Built with Zero](https://img.shields.io/badge/Built%20with-Zero-6C5CE7)](https://zero.codepet.ca)
+
 A coin-collecting game with a shared score display and restart controls.
 
 This is a complete editable Zero project.
